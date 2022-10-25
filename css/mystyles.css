@@ -13,3 +13,10 @@ li{text-align: left !important;
     /*margin-right: auto;*/
     text-align: center;
   }
+
+.imgresize {  width:800px;
+    height:914px;
+}
+
+.margins{margin-left: auto;
+    margin-right: auto;}
